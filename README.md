@@ -5,6 +5,8 @@ This application shows how data sent to the LCU can be modified or read to chang
 
 ## How to install 
 
+[Click Here To Download Application 64 BIT](https://github.com/Lefyr/League-Tags/releases/download/dowload/LeagueTags.zip)
+
 then extract all the files somewhere and run League Tags.exe
 
 ### Preview
